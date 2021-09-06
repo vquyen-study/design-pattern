@@ -1,0 +1,2 @@
+- Create pointer-chain to process **"leave request"** for employee. (Number of days, Subleader approval, Leader approval, Manager approval).
+- If the request get rejected from any of approval person. The chain will stop all following Modifier.
