@@ -5,5 +5,6 @@ add_executable (reflective-visitor reflective-visitor.cpp)
 add_executable (classic-visitor classic-visitor.cpp)
 add_executable (cyclic-visitor cyclic-visitor.cpp)
 add_executable (multimethod-visitor multimethod-visitor.cpp)
+add_executable (variant-visitor variant-visitor.cpp)
 add_executable (test-prog test-prog.cpp)
 
